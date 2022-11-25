@@ -10,7 +10,7 @@ namespace OrientacaoAObjetos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine("ola");
         }
     }
 }
