@@ -11,7 +11,7 @@ namespace OrientacaoAObjetos
         //Atributos ou variáveis (atribustos são variaveis dentro de uma classe)
         private string marca;
         private string modelo; /*/ o modificador de acesso desses atributos são todos privados
-                                * ou seja, só podemser acessados dentro da classe, então se eu 
+                                * ou seja, só podem ser acessados dentro da classe, então se eu 
                                 * chamar no main() eles nao vão funcionar.Ja as PROPRIEDADES
                                 * logo abaixo, podem ser acessadas no main() por serem publicas/*/
         private UInt32 velocidade;

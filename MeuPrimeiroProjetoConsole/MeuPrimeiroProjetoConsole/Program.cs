@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MeuPrimeiroProjetoConsole
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            char coisa = Console.ReadKey().KeyChar;
+            Console.Write(coisa);
+            Console.ReadKey();  
+
+
+        }
+    }
+}
