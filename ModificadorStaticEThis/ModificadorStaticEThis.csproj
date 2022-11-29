@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{684CDCB4-70DE-4233-9E31-8E6DE9DFA5FC}</ProjectGuid>
+    <ProjectGuid>{A7FC6B9B-6770-42D7-A8F5-AF885DE299E3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MetodosRecap</RootNamespace>
-    <AssemblyName>MetodosRecap</AssemblyName>
+    <RootNamespace>ModificadorStaticEThis</RootNamespace>
+    <AssemblyName>ModificadorStaticEThis</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
