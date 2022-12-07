@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BAB2024C-8AAA-4062-8964-D0A2A858F783}</ProjectGuid>
+    <ProjectGuid>{22820BF7-08CC-4A65-91DF-85249A5308F5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SleepeThreads</RootNamespace>
-    <AssemblyName>SleepeThreads</AssemblyName>
+    <RootNamespace>Thread</RootNamespace>
+    <AssemblyName>Thread</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

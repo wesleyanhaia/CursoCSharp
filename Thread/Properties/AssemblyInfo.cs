@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associadas a um assembly.
-[assembly: AssemblyTitle("SleepeThreads")]
+[assembly: AssemblyTitle("Thread")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SleepeThreads")]
+[assembly: AssemblyProduct("Thread")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("bab2024c-8aaa-4062-8964-d0a2a858f783")]
+[assembly: Guid("22820bf7-08cc-4a65-91df-85249a5308f5")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //
